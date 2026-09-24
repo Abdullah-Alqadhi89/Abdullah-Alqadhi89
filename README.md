@@ -1,7 +1,7 @@
 # Hi there, I'm Abdullah Al-Qadhi 👋
 
 **Data Analyst & Full-Stack Developer** based in the UK.  
-I bridge commercial data analysis with modern web engineering—specializing in analytical modeling, interactive dashboards, and full-stack web solutions.
+I bridge commercial data analysis with modern web engineering—specialising in analytical modeling, interactive dashboards, and web solutions.
 
 ---
 
